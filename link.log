@@ -1,0 +1,1374 @@
+Apr  3 04:14:58 syslog: System time is up to date
+Apr  3 06:22:03 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 06:22:03 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 06:22:03 syslog: System time is up to date
+Apr  3 08:34:09 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 08:34:09 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 08:34:09 syslog: System time is up to date
+Apr  3 10:49:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 10:49:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 10:49:14 syslog: System time is up to date
+Apr  3 13:12:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 13:12:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 13:12:19 syslog: System time is up to date
+Apr  3 15:35:24 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 15:35:24 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 15:35:24 syslog: System time is up to date
+Apr  3 17:48:29 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 17:48:29 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 17:48:29 syslog: System time is up to date
+Apr  3 20:13:34 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 20:13:34 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 20:13:34 syslog: System time is up to date
+Apr  3 21:27:25 syslog: [87012.922000] Line 0: VDSL2 link down
+Apr  3 21:27:27 syslog: [87014.478000] Line 0: xDSL G.994 training
+Apr  3 21:27:42 syslog: [87029.485000] Line 0: VDSL G.993 started
+Apr  3 21:28:52 syslog: [87099.886000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=55983
+Apr  3 21:28:52 syslog: [87099.891000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  3 21:29:06 syslog: PPP server detected.
+Apr  3 21:29:06 syslog: PPP session established.
+Apr  3 21:29:09 syslog: PPP LCP UP.
+Apr  3 21:29:09 syslog: WAN link UP.
+Apr  3 21:29:09 syslog: Received valid IP address from server.  Connection UP.
+Apr  3 21:29:15 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.156.7/2.22.2883.R/::1]
+Apr  3 20:29:27 syslog: bind 0.0.0.0 - Address already in use
+Apr  3 20:29:27 syslog: bind 0.0.0.0 - Address already in use
+Apr  3 20:29:28 syslog: bind 0.0.0.0 - Address already in use
+Apr  3 20:29:28 syslog: bind 0.0.0.0 - Address already in use
+Apr  3 22:41:39 syslog: Send out NTP request to ntp0.esat.net 
+Apr  3 22:41:39 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  3 22:41:39 syslog: System time is up to date
+Apr  4 01:10:45 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 01:10:45 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 01:10:45 syslog: System time is up to date
+Apr  4 03:22:49 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 03:22:49 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 03:22:49 syslog: System time is up to date
+Apr  4 04:22:18 syslog: [111909.594000] Line 0: VDSL2 link down
+Apr  4 04:22:20 syslog: [111911.679000] Line 0: xDSL G.994 training
+Apr  4 04:22:33 syslog: [111924.688000] Line 0: ADSL G.992 started
+Apr  4 04:22:47 syslog: [111938.706000] Line 0: ADSL link down
+Apr  4 04:22:48 syslog: [111939.710000] Line 0: ADSL G.992 started
+Apr  4 04:22:51 syslog: [111942.723000] Line 0: ADSL link down
+Apr  4 04:22:54 syslog: [111945.728000] Line 0: xDSL G.994 training
+Apr  4 04:23:09 syslog: [111960.737000] Line 0: VDSL G.993 started
+Apr  4 04:24:20 syslog: [112032.451000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54119
+Apr  4 04:24:20 syslog: [112032.457000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  4 04:24:33 syslog: PPP server detected.
+Apr  4 04:24:34 syslog: PPP session established.
+Apr  4 04:24:36 syslog: PPP LCP UP.
+Apr  4 04:24:36 syslog: WAN link UP.
+Apr  4 04:24:36 syslog: Received valid IP address from server.  Connection UP.
+Apr  4 04:24:42 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.155.250/2.22.2883.R/::1]
+Apr  4 03:24:56 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 03:24:56 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 03:24:56 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 03:24:56 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 05:53:15 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 05:53:15 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 05:53:15 syslog: System time is up to date
+Apr  4 07:58:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 07:58:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 07:58:19 syslog: System time is up to date
+Apr  4 10:24:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 10:24:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 10:24:25 syslog: System time is up to date
+Apr  4 12:31:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 12:31:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 12:31:30 syslog: System time is up to date
+Apr  4 14:39:35 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 14:39:35 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 14:39:35 syslog: System time is up to date
+Apr  4 16:49:40 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 16:49:40 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 16:49:40 syslog: System time is up to date
+Apr  4 19:02:59 syslog: [164757.514000] Line 0: VDSL2 link down
+Apr  4 19:03:01 syslog: [164759.647000] Line 0: xDSL G.994 training
+Apr  4 19:03:15 syslog: [164773.656000] Line 0: VDSL G.993 started
+Apr  4 19:04:26 syslog: [164844.797000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=57005
+Apr  4 19:04:26 syslog: [164844.803000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  4 19:04:40 syslog: PPP server detected.
+Apr  4 19:04:40 syslog: PPP session established.
+Apr  4 19:04:42 syslog: PPP LCP UP.
+Apr  4 19:04:42 syslog: WAN link UP.
+Apr  4 19:04:42 syslog: Received valid IP address from server.  Connection UP.
+Apr  4 19:04:49 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.188.79/2.22.2883.R/::1]
+Apr  4 19:04:49 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 19:04:49 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 19:04:49 syslog: System time is up to date
+Apr  4 18:05:03 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 18:05:03 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 18:05:03 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 18:05:03 syslog: bind 0.0.0.0 - Address already in use
+Apr  4 21:23:54 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 21:23:54 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 21:23:54 syslog: System time is up to date
+Apr  4 23:41:59 syslog: Send out NTP request to ntp0.esat.net 
+Apr  4 23:41:59 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  4 23:41:59 syslog: System time is up to date
+Apr  5 01:47:05 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 01:47:05 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 01:47:05 syslog: System time is up to date
+Apr  5 03:50:10 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 03:50:10 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 03:50:10 syslog: System time is up to date
+Apr  5 04:56:56 syslog: [200399.490000] Line 0: VDSL2 link down
+Apr  5 04:56:58 syslog: [200401.676000] Line 0: xDSL G.994 training
+Apr  5 04:57:11 syslog: [200414.697000] Line 0: ADSL G.992 started
+Apr  5 04:57:18 syslog: [200421.709000] Line 0: ADSL link down
+Apr  5 04:57:19 syslog: [200422.713000] Line 0: ADSL G.992 started
+Apr  5 04:57:22 syslog: [200425.725000] Line 0: ADSL link down
+Apr  5 04:57:26 syslog: [200429.731000] Line 0: xDSL G.994 training
+Apr  5 04:57:40 syslog: [200443.740000] Line 0: VDSL G.993 started
+Apr  5 04:58:50 syslog: [200513.841000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=56840
+Apr  5 04:58:50 syslog: [200513.847000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  5 04:59:03 syslog: PPP server detected.
+Apr  5 04:59:03 syslog: PPP session established.
+Apr  5 04:59:06 syslog: PPP LCP UP.
+Apr  5 04:59:06 syslog: WAN link UP.
+Apr  5 04:59:06 syslog: Received valid IP address from server.  Connection UP.
+Apr  5 04:59:12 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.188.79/2.22.2883.R/::1]
+Apr  5 03:59:24 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 03:59:24 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 03:59:25 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 03:59:25 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 06:19:41 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 06:19:41 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 06:19:41 syslog: System time is up to date
+Apr  5 08:24:46 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 08:24:46 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 08:24:46 syslog: System time is up to date
+Apr  5 10:30:51 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 10:30:51 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 10:30:51 syslog: System time is up to date
+Apr  5 12:37:56 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 12:37:56 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 12:37:56 syslog: System time is up to date
+Apr  5 14:48:02 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 14:48:02 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 14:48:02 syslog: System time is up to date
+Apr  5 16:57:07 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 16:57:07 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 16:57:07 syslog: System time is up to date
+Apr  5 18:44:27 syslog: [250057.824000] Line 0: VDSL2 link down
+Apr  5 18:44:29 syslog: [250059.478000] Line 0: xDSL G.994 training
+Apr  5 18:44:44 syslog: [250074.490000] Line 0: VDSL G.993 started
+Apr  5 18:45:55 syslog: [250145.308000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=57167
+Apr  5 18:45:55 syslog: [250145.314000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  5 18:46:09 syslog: PPP server detected.
+Apr  5 18:46:09 syslog: PPP session established.
+Apr  5 18:46:12 syslog: PPP LCP UP.
+Apr  5 18:46:12 syslog: WAN link UP.
+Apr  5 18:46:12 syslog: Received valid IP address from server.  Connection UP.
+Apr  5 18:46:18 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.188.79/2.22.2883.R/::1]
+Apr  5 17:46:33 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 17:46:33 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 17:46:33 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 17:46:33 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 19:25:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 19:25:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 19:25:25 syslog: System time is up to date
+Apr  5 21:48:31 syslog: Send out NTP request to ntp0.esat.net 
+Apr  5 21:48:31 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  5 21:48:31 syslog: System time is up to date
+Apr  5 23:15:09 syslog: [266300.953000] Line 0: VDSL2 link down
+Apr  5 23:15:11 syslog: [266303.263000] Line 0: xDSL G.994 training
+Apr  5 23:15:25 syslog: [266317.266000] Line 0: VDSL G.993 started
+Apr  5 23:16:37 syslog: [266389.361000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=58672
+Apr  5 23:16:37 syslog: [266389.367000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  5 23:16:50 syslog: PPP server detected.
+Apr  5 23:16:50 syslog: PPP session established.
+Apr  5 23:16:53 syslog: PPP LCP UP.
+Apr  5 23:16:54 syslog: WAN link UP.
+Apr  5 23:16:54 syslog: Received valid IP address from server.  Connection UP.
+Apr  5 23:17:00 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.189.56/2.22.2883.R/::1]
+Apr  5 22:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 22:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 22:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr  5 22:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 00:09:18 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 00:09:18 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 00:09:18 syslog: System time is up to date
+Apr  6 02:16:24 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 02:16:24 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 02:16:24 syslog: System time is up to date
+Apr  6 04:35:29 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 04:35:29 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 04:35:29 syslog: System time is up to date
+Apr  6 06:54:34 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 06:54:34 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 06:54:34 syslog: System time is up to date
+Apr  6 09:00:39 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 09:00:39 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 09:00:39 syslog: System time is up to date
+Apr  6 11:16:45 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 11:16:45 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 11:16:45 syslog: System time is up to date
+Apr  6 13:45:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 13:45:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 13:45:50 syslog: System time is up to date
+Apr  6 15:45:57 syslog: [325756.012000] Line 0: VDSL2 link down
+Apr  6 15:45:58 syslog: [325757.649000] Line 0: xDSL G.994 training
+Apr  6 15:46:13 syslog: [325772.660000] Line 0: VDSL G.993 started
+Apr  6 15:47:24 syslog: [325843.626000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=55407
+Apr  6 15:47:24 syslog: [325843.631000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  6 15:47:38 syslog: PPP server detected.
+Apr  6 15:47:38 syslog: PPP session established.
+Apr  6 15:47:42 syslog: PPP LCP UP.
+Apr  6 15:47:42 syslog: WAN link UP.
+Apr  6 15:47:42 syslog: Received valid IP address from server.  Connection UP.
+Apr  6 15:47:49 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.189.56/2.22.2883.R/::1]
+Apr  6 15:47:49 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 15:47:49 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 15:47:49 syslog: System time is up to date
+Apr  6 14:48:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 14:48:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 14:48:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 14:48:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 16:07:29 syslog: [327048.776000] Line 0: VDSL2 link down
+Apr  6 16:07:31 syslog: [327050.903000] Line 0: xDSL G.994 training
+Apr  6 16:07:45 syslog: [327064.911000] Line 0: VDSL G.993 started
+Apr  6 16:08:56 syslog: [327135.658000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54931
+Apr  6 16:08:56 syslog: [327135.664000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  6 16:09:09 syslog: PPP server detected.
+Apr  6 16:09:09 syslog: PPP session established.
+Apr  6 16:09:12 syslog: PPP LCP UP.
+Apr  6 16:09:13 syslog: WAN link UP.
+Apr  6 16:09:13 syslog: Received valid IP address from server.  Connection UP.
+Apr  6 16:09:19 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.121/2.22.2883.R/::1]
+Apr  6 15:09:33 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 15:09:33 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 15:09:34 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 15:09:34 syslog: bind 0.0.0.0 - Address already in use
+Apr  6 17:56:13 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 17:56:13 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 17:56:13 syslog: System time is up to date
+Apr  6 20:02:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 20:02:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 20:02:19 syslog: System time is up to date
+Apr  6 22:15:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr  6 22:15:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  6 22:15:25 syslog: System time is up to date
+Apr  7 00:29:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 00:29:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 00:29:30 syslog: System time is up to date
+Apr  7 02:38:35 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 02:38:35 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 02:38:35 syslog: System time is up to date
+Apr  7 04:53:40 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 04:53:40 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 04:53:40 syslog: System time is up to date
+Apr  7 07:15:45 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 07:15:45 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 07:15:45 syslog: System time is up to date
+Apr  7 09:20:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 09:20:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 09:20:50 syslog: System time is up to date
+Apr  7 11:28:56 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 11:28:56 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 11:28:56 syslog: System time is up to date
+Apr  7 13:36:01 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 13:36:01 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 13:36:01 syslog: System time is up to date
+Apr  7 14:59:52 syslog: [409401.899000] Line 0: VDSL2 link down
+Apr  7 14:59:54 syslog: [409404.295000] Line 0: xDSL G.994 training
+Apr  7 15:00:08 syslog: [409418.316000] Line 0: VDSL G.993 started
+Apr  7 15:01:23 syslog: [409492.947000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=58227
+Apr  7 15:01:23 syslog: [409492.953000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  7 15:01:37 syslog: PPP server detected.
+Apr  7 15:01:37 syslog: PPP session established.
+Apr  7 15:01:40 syslog: PPP LCP UP.
+Apr  7 15:01:40 syslog: WAN link UP.
+Apr  7 15:01:40 syslog: Received valid IP address from server.  Connection UP.
+Apr  7 15:01:46 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.121/2.22.2883.R/::1]
+Apr  7 14:02:03 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 14:02:03 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 14:02:04 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 14:02:04 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 15:39:05 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 15:39:05 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 15:39:05 syslog: System time is up to date
+Apr  7 17:43:12 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 17:43:12 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 17:43:12 syslog: System time is up to date
+Apr  7 19:31:54 syslog: [425724.952000] Line 0: VDSL2 link down
+Apr  7 19:31:55 syslog: [425726.732000] Line 0: xDSL G.994 training
+Apr  7 19:32:10 syslog: [425741.751000] Line 0: VDSL G.993 started
+Apr  7 19:33:21 syslog: [425812.724000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=56726
+Apr  7 19:33:21 syslog: [425812.730000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  7 19:33:35 syslog: PPP server detected.
+Apr  7 19:33:35 syslog: PPP session established.
+Apr  7 19:33:38 syslog: PPP LCP UP.
+Apr  7 19:33:38 syslog: WAN link UP.
+Apr  7 19:33:38 syslog: Received valid IP address from server.  Connection UP.
+Apr  7 19:33:45 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.154.233/2.22.2883.R/::1]
+Apr  7 18:34:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 18:34:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 18:34:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 18:34:01 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 20:00:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 20:00:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 20:00:50 syslog: System time is up to date
+Apr  7 22:04:56 syslog: Send out NTP request to ntp0.esat.net 
+Apr  7 22:04:56 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  7 22:04:56 syslog: System time is up to date
+Apr  7 22:57:27 syslog: [438060.210000] Line 0: VDSL2 link down
+Apr  7 22:57:29 syslog: [438062.603000] Line 0: xDSL G.994 training
+Apr  7 22:57:43 syslog: [438076.606000] Line 0: VDSL G.993 started
+Apr  7 22:58:55 syslog: [438148.290000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=57770
+Apr  7 22:58:55 syslog: [438148.296000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  7 22:59:08 syslog: PPP server detected.
+Apr  7 22:59:08 syslog: PPP session established.
+Apr  7 22:59:11 syslog: PPP LCP UP.
+Apr  7 22:59:11 syslog: WAN link UP.
+Apr  7 22:59:11 syslog: Received valid IP address from server.  Connection UP.
+Apr  7 22:59:17 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.154.233/2.22.2883.R/::1]
+Apr  7 21:59:30 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 21:59:30 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 21:59:30 syslog: bind 0.0.0.0 - Address already in use
+Apr  7 21:59:30 syslog: bind 0.0.0.0 - Address already in use
+Apr  8 00:25:54 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 00:25:54 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 00:25:54 syslog: System time is up to date
+Apr  8 02:36:59 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 02:36:59 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 02:36:59 syslog: System time is up to date
+Apr  8 04:56:04 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 04:56:04 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 04:56:04 syslog: System time is up to date
+Apr  8 07:15:09 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 07:15:09 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 07:15:09 syslog: System time is up to date
+Apr  8 09:40:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 09:40:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 09:40:14 syslog: System time is up to date
+Apr  8 12:10:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 12:10:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 12:10:19 syslog: System time is up to date
+Apr  8 14:33:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 14:33:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 14:33:25 syslog: System time is up to date
+Apr  8 16:55:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 16:55:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 16:55:30 syslog: System time is up to date
+Apr  8 19:12:35 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 19:12:35 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 19:12:35 syslog: System time is up to date
+Apr  8 19:20:18 syslog: [511440.420000] Line 0: VDSL2 link down
+Apr  8 19:20:19 syslog: [511442.005000] Line 0: xDSL G.994 training
+Apr  8 19:20:34 syslog: [511457.008000] Line 0: VDSL G.993 started
+Apr  8 19:21:44 syslog: [511527.072000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54667
+Apr  8 19:21:44 syslog: [511527.078000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr  8 19:21:58 syslog: PPP server detected.
+Apr  8 19:21:58 syslog: PPP session established.
+Apr  8 19:22:01 syslog: PPP LCP UP.
+Apr  8 19:22:01 syslog: WAN link UP.
+Apr  8 19:22:01 syslog: Received valid IP address from server.  Connection UP.
+Apr  8 19:22:07 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.156.23/2.22.2883.R/::1]
+Apr  8 18:22:24 syslog: bind 0.0.0.0 - Address already in use
+Apr  8 18:22:24 syslog: bind 0.0.0.0 - Address already in use
+Apr  8 18:22:24 syslog: bind 0.0.0.0 - Address already in use
+Apr  8 18:22:24 syslog: bind 0.0.0.0 - Address already in use
+Apr  8 21:22:08 syslog: Send out NTP request to ntp0.esat.net 
+Apr  8 21:22:08 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr  8 21:22:08 syslog: System time is up to date
+[...]
+Apr 13 02:17:32 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 02:17:32 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 02:17:32 syslog: System time is up to date
+Apr 13 04:45:38 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 04:45:38 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 04:45:38 syslog: System time is up to date
+Apr 13 06:48:42 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 06:48:42 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 06:48:42 syslog: System time is up to date
+Apr 13 09:06:48 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 09:06:48 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 09:06:48 syslog: System time is up to date
+Apr 13 11:08:53 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 11:08:53 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 11:08:53 syslog: System time is up to date
+Apr 13 13:24:58 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 13:24:58 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 13:24:58 syslog: System time is up to date
+Apr 13 14:59:17 syslog: [259777.447000] Line 0: VDSL2 link down
+Apr 13 14:59:19 syslog: [259779.484000] Line 0: xDSL G.994 training
+Apr 13 14:59:33 syslog: [259793.491000] Line 0: VDSL G.993 started
+Apr 13 15:00:44 syslog: [259865.064000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=56212
+Apr 13 15:00:44 syslog: [259865.070000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 13 15:00:59 syslog: PPP server detected.
+Apr 13 15:00:59 syslog: PPP session established.
+Apr 13 15:01:01 syslog: PPP LCP UP.
+Apr 13 15:01:01 syslog: WAN link UP.
+Apr 13 15:01:01 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 15:01:07 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.189.222/2.22.2883.R/::1]
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 15:45:21 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 15:45:21 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 15:45:21 syslog: System time is up to date
+Apr 13 17:53:27 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 17:53:27 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 17:53:27 syslog: System time is up to date
+Apr 13 20:01:32 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 20:01:32 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 20:01:32 syslog: System time is up to date
+Apr 13 20:37:05 syslog: Clear IP addresses.  PPP connection DOWN.
+Apr 13 20:37:17 syslog: PPP server detected.
+Apr 13 20:37:46 syslog: PPP server detected.
+Apr 13 20:37:46 syslog: PPP session established.
+Apr 13 20:38:01 syslog: PPP server detected.
+Apr 13 20:38:01 syslog: PPP session established.
+Apr 13 20:38:24 syslog: PPP server detected.
+Apr 13 20:38:52 syslog: PPP server detected.
+Apr 13 20:39:35 syslog: PPP server detected.
+Apr 13 20:40:44 syslog: PPP server detected.
+Apr 13 20:40:44 syslog: PPP session established.
+Apr 13 20:41:19 syslog: PPP server detected.
+Apr 13 20:41:19 syslog: PPP session established.
+Apr 13 20:41:22 syslog: PPP LCP UP.
+Apr 13 20:43:03 syslog: PPP server detected.
+Apr 13 20:43:52 syslog: PPP server detected.
+Apr 13 20:43:52 syslog: PPP session established.
+Apr 13 20:44:01 syslog: PPP LCP UP.
+Apr 13 20:44:16 syslog: WAN link UP.
+Apr 13 20:44:16 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 20:44:23 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 13 20:45:12 syslog: [280535.790000] Line 0: VDSL2 link down
+Apr 13 20:45:14 syslog: [280538.115000] Line 0: xDSL G.994 training
+Apr 13 20:45:28 syslog: [280552.120000] Line 0: VDSL G.993 started
+Apr 13 20:46:40 syslog: [280623.826000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54887
+Apr 13 20:46:40 syslog: [280623.831000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 13 20:46:53 syslog: PPP server detected.
+Apr 13 20:46:53 syslog: PPP session established.
+Apr 13 20:46:56 syslog: PPP LCP UP.
+Apr 13 20:46:56 syslog: WAN link UP.
+Apr 13 20:46:56 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 20:47:02 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:27:43 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 22:27:43 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 22:27:43 syslog: System time is up to date
+Apr 13 23:14:44 syslog: [289508.946000] Line 0: VDSL2 link down
+Apr 13 23:14:46 syslog: [289511.307000] Line 0: xDSL G.994 training
+Apr 13 23:15:00 syslog: [289525.316000] Line 0: VDSL G.993 started
+Apr 13 23:16:12 syslog: [289596.696000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54597
+Apr 13 23:16:12 syslog: [289596.702000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 13 23:16:25 syslog: PPP server detected.
+Apr 13 23:16:25 syslog: PPP session established.
+Apr 13 23:16:28 syslog: PPP LCP UP.
+Apr 13 23:16:28 syslog: WAN link UP.
+Apr 13 23:16:28 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 23:16:34 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 13 22:16:48 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:16:48 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:16:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:16:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 14 00:54:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 00:54:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 00:54:14 syslog: System time is up to date
+Apr 14 02:59:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 02:59:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 02:59:19 syslog: System time is up to date
+Apr 14 05:06:24 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 05:06:24 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 05:06:24 syslog: System time is up to date
+Apr 14 07:21:29 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 07:21:29 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 07:21:29 syslog: System time is up to date
+Apr 14 09:36:34 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 09:36:34 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 09:36:34 syslog: System time is up to date
+Apr 14 11:56:40 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 11:56:40 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 11:56:40 syslog: System time is up to date
+Apr 14 14:26:45 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 14:26:45 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 14:26:45 syslog: System time is up to date
+Apr 14 16:50:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 16:50:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 16:50:50 syslog: System time is up to date
+Apr 14 19:00:55 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 19:00:55 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 19:00:55 syslog: System time is up to date
+Apr 14 21:03:00 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 21:03:00 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 21:03:00 syslog: System time is up to date
+Apr 14 23:17:06 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 23:17:06 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 23:17:06 syslog: System time is up to date
+Apr 15 01:43:11 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 01:43:11 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 01:43:11 syslog: System time is up to date
+Apr 15 04:05:16 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 04:05:16 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 04:05:16 syslog: System time is up to date
+Apr 15 06:20:21 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 06:20:21 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 06:20:21 syslog: System time is up to date
+Apr 15 08:39:26 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 08:39:26 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 08:39:26 syslog: System time is up to date
+Apr 15 10:57:31 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 10:57:31 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 10:57:31 syslog: System time is up to date
+Apr 15 13:15:36 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 13:15:36 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 13:15:36 syslog: System time is up to date
+Apr 15 15:17:41 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 15:17:41 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 15:17:41 syslog: System time is up to date
+Apr 15 17:23:46 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 17:23:46 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 17:23:46 syslog: System time is up to date
+Apr 15 19:26:52 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 19:26:52 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 19:26:52 syslog: System time is up to date
+Apr 15 21:41:57 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 21:41:57 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 21:41:57 syslog: System time is up to date
+Apr 15 23:59:02 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 23:59:02 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 23:59:02 syslog: System time is up to date
+Apr 16 00:38:29 syslog: [467358.708000] Line 0: VDSL2 link down
+Apr 16 00:38:31 syslog: [467360.746000] Line 0: xDSL G.994 training
+Apr 16 00:38:46 syslog: [467375.757000] Line 0: VDSL G.993 started
+Apr 16 00:39:56 syslog: [467446.249000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=55561
+Apr 16 00:39:56 syslog: [467446.254000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 16 00:40:09 syslog: PPP server detected.
+Apr 16 00:40:09 syslog: PPP session established.
+Apr 16 00:40:12 syslog: PPP LCP UP.
+Apr 16 00:40:12 syslog: WAN link UP.
+Apr 16 00:40:12 syslog: Received valid IP address from server.  Connection UP.
+Apr 16 00:40:18 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 02:13:01 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 02:13:01 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 02:13:01 syslog: System time is up to date
+Apr 16 04:42:07 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 04:42:07 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 04:42:07 syslog: System time is up to date
+Apr 16 07:09:12 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 07:09:12 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 07:09:12 syslog: System time is up to date
+Apr 16 07:39:35 syslog: [492628.150000] Line 0: VDSL2 link down
+Apr 16 07:39:37 syslog: [492630.372000] Line 0: xDSL G.994 training
+Apr 16 07:39:51 syslog: [492644.375000] Line 0: VDSL G.993 started
+Apr 16 07:41:01 syslog: [492714.350000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=59449
+Apr 16 07:41:01 syslog: [492714.355000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 16 07:41:14 syslog: PPP server detected.
+Apr 16 07:41:14 syslog: PPP session established.
+Apr 16 07:41:17 syslog: PPP LCP UP.
+Apr 16 07:41:17 syslog: WAN link UP.
+Apr 16 07:41:17 syslog: Received valid IP address from server.  Connection UP.
+Apr 16 07:41:23 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 16 06:41:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 06:41:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 06:41:39 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 06:41:39 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 09:17:12 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 09:17:12 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 09:17:12 syslog: System time is up to date
+Apr 16 11:45:17 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 11:45:17 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 11:45:17 syslog: System time is up to date
+Apr 16 13:50:22 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 13:50:22 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 13:50:22 syslog: System time is up to date
+Apr 16 15:54:27 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 15:54:27 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 15:54:27 syslog: System time is up to date
+Apr 16 18:12:33 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 18:12:33 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 18:12:33 syslog: System time is up to date
+Apr 16 19:48:40 syslog: [536378.845000] Line 0: VDSL2 link down
+Apr 16 19:48:42 syslog: [536381.007000] Line 0: xDSL G.994 training
+Apr 16 19:48:56 syslog: [536395.010000] Line 0: VDSL G.993 started
+Apr 16 19:50:07 syslog: [536465.494000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=53931
+Apr 16 19:50:07 syslog: [536465.500000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 16 19:50:22 syslog: PPP server detected.
+Apr 16 19:50:22 syslog: PPP session established.
+Apr 16 19:50:25 syslog: PPP LCP UP.
+Apr 16 19:50:25 syslog: WAN link UP.
+Apr 16 19:50:25 syslog: Received valid IP address from server.  Connection UP.
+Apr 16 19:50:31 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 20:24:44 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 20:24:44 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 20:24:44 syslog: System time is up to date
+Apr 16 22:26:49 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 22:26:49 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 22:26:49 syslog: System time is up to date
+Apr 17 00:33:55 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 00:33:55 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 00:33:55 syslog: System time is up to date
+Apr 17 02:59:00 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 02:59:00 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 02:59:00 syslog: System time is up to date
+Apr 17 05:21:05 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 05:21:05 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 05:21:05 syslog: System time is up to date
+Apr 17 07:41:09 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 07:41:09 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 07:41:09 syslog: System time is up to date
+Apr 17 09:50:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 09:50:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 09:50:14 syslog: System time is up to date
+Apr 17 12:05:20 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 12:05:20 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 12:05:20 syslog: System time is up to date
+Apr 17 14:28:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 14:28:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 14:28:25 syslog: System time is up to date
+Apr 17 16:49:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 16:49:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 16:49:30 syslog: System time is up to date
+Apr 17 19:05:36 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 19:05:36 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 19:05:36 syslog: System time is up to date
+Apr 17 21:12:41 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 21:12:41 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 21:12:41 syslog: System time is up to date
+Apr 17 23:17:46 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 23:17:46 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 23:17:46 syslog: System time is up to date
+Apr 18 01:42:52 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 01:42:52 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 01:42:52 syslog: System time is up to date
+Apr 18 03:59:57 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 03:59:57 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 03:59:57 syslog: System time is up to date
+Apr 18 06:29:02 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 06:29:02 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 06:29:02 syslog: System time is up to date
+Apr 18 08:15:25 syslog: [667601.049000] Line 0: VDSL2 link down
+Apr 18 08:15:27 syslog: [667603.376000] Line 0: xDSL G.994 training
+Apr 18 08:15:41 syslog: [667617.380000] Line 0: VDSL G.993 started
+Apr 18 08:16:53 syslog: [667689.331000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=57499
+Apr 18 08:16:53 syslog: [667689.336000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 18 08:17:07 syslog: PPP server detected.
+Apr 18 08:17:07 syslog: PPP session established.
+Apr 18 08:17:10 syslog: PPP LCP UP.
+Apr 18 08:17:10 syslog: WAN link UP.
+Apr 18 08:17:10 syslog: Received valid IP address from server.  Connection UP.
+Apr 18 08:17:17 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 18 07:17:31 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 07:17:31 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 07:17:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 07:17:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 08:53:24 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 08:53:24 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 08:53:24 syslog: System time is up to date
+Apr 18 11:20:29 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 11:20:29 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 11:20:29 syslog: System time is up to date
+Apr 18 13:36:34 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 13:36:34 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 13:36:34 syslog: System time is up to date
+Apr 18 16:03:39 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 16:03:39 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 16:03:39 syslog: System time is up to date
+Apr 18 18:22:44 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 18:22:44 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 18:22:44 syslog: System time is up to date
+Apr 18 20:36:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 20:36:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 20:36:50 syslog: System time is up to date
+Apr 18 21:23:57 syslog: [714919.856000] Line 0: VDSL2 link down
+Apr 18 21:24:00 syslog: [714922.288000] Line 0: xDSL G.994 training
+Apr 18 21:24:14 syslog: [714936.335000] Line 0: VDSL G.993 started
+Apr 18 21:25:25 syslog: [715007.728000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54629
+Apr 18 21:25:25 syslog: [715007.734000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 18 21:25:41 syslog: PPP server detected.
+Apr 18 21:25:41 syslog: PPP session established.
+Apr 18 21:25:44 syslog: PPP LCP UP.
+Apr 18 21:25:44 syslog: WAN link UP.
+Apr 18 21:25:44 syslog: Received valid IP address from server.  Connection UP.
+Apr 18 21:25:50 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 22:57:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 22:57:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 22:57:30 syslog: System time is up to date
+Apr 19 01:14:36 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 01:14:36 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 01:14:36 syslog: System time is up to date
+Apr 19 03:40:41 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 03:40:41 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 03:40:41 syslog: System time is up to date
+Apr 19 05:42:46 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 05:42:46 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 05:42:46 syslog: System time is up to date
+Apr 19 07:46:51 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 07:46:51 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 07:46:51 syslog: System time is up to date
+Apr 19 09:50:56 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 09:50:56 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 09:50:56 syslog: System time is up to date
+Apr 19 12:05:01 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 12:05:01 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 12:05:01 syslog: System time is up to date
+Apr 19 14:08:07 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 14:08:07 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 14:08:07 syslog: System time is up to date
+Apr 19 16:14:12 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 16:14:12 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 16:14:12 syslog: System time is up to date
+Apr 19 18:40:17 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 18:40:17 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 18:40:17 syslog: System time is up to date
+Apr 19 21:09:22 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 21:09:22 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 21:09:22 syslog: System time is up to date
+Apr 19 23:40:28 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 23:40:28 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 23:40:28 syslog: System time is up to date
+Apr 20 01:49:33 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 01:49:33 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 01:49:33 syslog: System time is up to date
+Apr 20 03:58:38 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 03:58:38 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 03:58:38 syslog: System time is up to date
+Apr 20 06:23:43 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 06:23:43 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 06:23:43 syslog: System time is up to date
+Apr 20 08:38:48 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 08:38:48 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 08:38:48 syslog: System time is up to date
+Apr 20 11:03:53 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 11:03:53 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 11:03:53 syslog: System time is up to date
+Apr 20 13:19:58 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 13:19:58 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 13:19:58 syslog: System time is up to date
+Apr 10 15:52:01 syslog: BusyBox v1.17.2
+
+Apr 10 17:16:45 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 10 17:16:45 syslog: System time is up to date
+Apr 10 19:45:51 syslog: Send out NTP request to ntp0.esat.net 
+Apr 10 19:45:51 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 10 19:45:51 syslog: System time is up to date
+Apr 10 20:15:12 syslog: [19499.789000] Line 0: VDSL2 link down
+Apr 10 20:15:14 syslog: [19501.827000] Line 0: xDSL G.994 training
+Apr 10 20:15:28 syslog: [19515.830000] Line 0: VDSL G.993 started
+Apr 10 20:16:39 syslog: [19586.785000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=55595
+Apr 10 20:16:39 syslog: [19586.791000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 10 20:16:52 syslog: PPP server detected.
+Apr 10 20:16:52 syslog: PPP session established.
+Apr 10 20:16:55 syslog: PPP LCP UP.
+Apr 10 20:16:56 syslog: WAN link UP.
+Apr 10 20:16:56 syslog: Received valid IP address from server.  Connection UP.
+Apr 10 19:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr 10 19:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr 10 19:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr 10 19:17:14 syslog: bind 0.0.0.0 - Address already in use
+Apr 10 21:59:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr 10 21:59:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 10 21:59:50 syslog: System time is up to date
+Apr 10 22:57:46 syslog: [29254.937000] Line 0: VDSL2 link down
+Apr 10 22:57:48 syslog: [29257.353000] Line 0: xDSL G.994 training
+Apr 10 22:58:02 syslog: [29271.374000] Line 0: VDSL G.993 started
+Apr 10 22:59:14 syslog: [29343.088000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=56574
+Apr 10 22:59:14 syslog: [29343.093000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 10 22:59:28 syslog: PPP server detected.
+Apr 10 22:59:28 syslog: PPP session established.
+Apr 10 22:59:30 syslog: PPP LCP UP.
+Apr 10 22:59:30 syslog: WAN link UP.
+Apr 10 22:59:30 syslog: Received valid IP address from server.  Connection UP.
+Apr 10 22:59:36 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.188.78/2.22.2883.R/::1]
+Apr 10 21:59:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 10 21:59:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 10 21:59:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 10 21:59:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 00:17:10 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 00:17:10 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 00:17:10 syslog: System time is up to date
+Apr 11 02:33:15 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 02:33:15 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 02:33:15 syslog: System time is up to date
+Apr 11 04:48:20 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 04:48:20 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 04:48:20 syslog: System time is up to date
+Apr 11 07:17:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 07:17:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 07:17:25 syslog: System time is up to date
+Apr 11 09:36:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 09:36:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 09:36:30 syslog: System time is up to date
+Apr 11 12:02:35 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 12:02:35 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 12:02:35 syslog: System time is up to date
+Apr 11 14:11:40 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 14:11:40 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 14:11:40 syslog: System time is up to date
+Apr 11 16:01:36 syslog: [90693.968000] Line 0: VDSL2 link down
+Apr 11 16:01:38 syslog: [90695.599000] Line 0: xDSL G.994 training
+Apr 11 16:01:53 syslog: [90710.613000] Line 0: VDSL G.993 started
+Apr 11 16:03:03 syslog: [90780.888000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=55789
+Apr 11 16:03:03 syslog: [90780.894000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 11 16:03:18 syslog: PPP server detected.
+Apr 11 16:03:18 syslog: PPP session established.
+Apr 11 16:03:21 syslog: PPP LCP UP.
+Apr 11 16:03:21 syslog: WAN link UP.
+Apr 11 16:03:21 syslog: Received valid IP address from server.  Connection UP.
+Apr 11 16:03:27 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.156.207/2.22.2883.R/::1]
+Apr 11 15:03:41 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 15:03:41 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 15:03:42 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 15:03:42 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 16:16:33 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 16:16:33 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 16:16:33 syslog: System time is up to date
+Apr 11 18:24:39 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 18:24:39 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 18:24:39 syslog: System time is up to date
+Apr 11 20:26:44 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 20:26:44 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 20:26:44 syslog: System time is up to date
+Apr 11 21:02:33 syslog: [108752.907000] Line 0: VDSL2 link down
+Apr 11 21:02:35 syslog: [108755.190000] Line 0: xDSL G.994 training
+Apr 11 21:02:49 syslog: [108769.197000] Line 0: VDSL G.993 started
+Apr 11 21:04:01 syslog: [108840.889000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=52401
+Apr 11 21:04:01 syslog: [108840.894000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 11 21:04:15 syslog: PPP server detected.
+Apr 11 21:04:15 syslog: PPP session established.
+Apr 11 21:04:18 syslog: PPP LCP UP.
+Apr 11 21:04:18 syslog: WAN link UP.
+Apr 11 21:04:18 syslog: Received valid IP address from server.  Connection UP.
+Apr 11 21:04:24 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.156.254/2.22.2883.R/::1]
+Apr 11 20:04:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 20:04:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 20:04:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 20:04:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 11 22:47:09 syslog: Send out NTP request to ntp0.esat.net 
+Apr 11 22:47:09 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 11 22:47:09 syslog: System time is up to date
+Apr 12 00:51:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr 12 00:51:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 12 00:51:14 syslog: System time is up to date
+Apr 12 02:53:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr 12 02:53:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 12 02:53:19 syslog: System time is up to date
+Apr 12 05:22:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr 12 05:22:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 12 05:22:25 syslog: System time is up to date
+Apr 12 07:25:29 syslog: Send out NTP request to ntp0.esat.net 
+Apr 12 07:25:29 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 12 07:25:29 syslog: System time is up to date
+Apr 12 09:46:35 syslog: Send out NTP request to ntp0.esat.net 
+Apr 12 09:46:35 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 12 09:46:35 syslog: System time is up to date
+Apr 12 12:10:40 syslog: Send out NTP request to ntp0.esat.net 
+Apr 12 12:10:40 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 12 12:10:40 syslog: System time is up to date
+Apr 12 14:39:45 syslog: Send out NTP request to ntp0.esat.net 
+Apr 12 14:39:45 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 12 14:39:45 syslog: System time is up to date
+[...]
+Apr 13 02:17:32 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 02:17:32 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 02:17:32 syslog: System time is up to date
+Apr 13 04:45:38 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 04:45:38 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 04:45:38 syslog: System time is up to date
+Apr 13 06:48:42 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 06:48:42 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 06:48:42 syslog: System time is up to date
+Apr 13 09:06:48 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 09:06:48 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 09:06:48 syslog: System time is up to date
+Apr 13 11:08:53 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 11:08:53 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 11:08:53 syslog: System time is up to date
+Apr 13 13:24:58 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 13:24:58 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 13:24:58 syslog: System time is up to date
+Apr 13 14:59:17 syslog: [259777.447000] Line 0: VDSL2 link down
+Apr 13 14:59:19 syslog: [259779.484000] Line 0: xDSL G.994 training
+Apr 13 14:59:33 syslog: [259793.491000] Line 0: VDSL G.993 started
+Apr 13 15:00:44 syslog: [259865.064000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=56212
+Apr 13 15:00:44 syslog: [259865.070000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 13 15:00:59 syslog: PPP server detected.
+Apr 13 15:00:59 syslog: PPP session established.
+Apr 13 15:01:01 syslog: PPP LCP UP.
+Apr 13 15:01:01 syslog: WAN link UP.
+Apr 13 15:01:01 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 15:01:07 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.17.189.222/2.22.2883.R/::1]
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 14:01:25 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 15:45:21 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 15:45:21 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 15:45:21 syslog: System time is up to date
+Apr 13 17:53:27 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 17:53:27 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 17:53:27 syslog: System time is up to date
+Apr 13 20:01:32 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 20:01:32 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 20:01:32 syslog: System time is up to date
+Apr 13 20:37:05 syslog: Clear IP addresses.  PPP connection DOWN.
+Apr 13 20:37:17 syslog: PPP server detected.
+Apr 13 20:37:46 syslog: PPP server detected.
+Apr 13 20:37:46 syslog: PPP session established.
+Apr 13 20:38:01 syslog: PPP server detected.
+Apr 13 20:38:01 syslog: PPP session established.
+Apr 13 20:38:24 syslog: PPP server detected.
+Apr 13 20:38:52 syslog: PPP server detected.
+Apr 13 20:39:35 syslog: PPP server detected.
+Apr 13 20:40:44 syslog: PPP server detected.
+Apr 13 20:40:44 syslog: PPP session established.
+Apr 13 20:41:19 syslog: PPP server detected.
+Apr 13 20:41:19 syslog: PPP session established.
+Apr 13 20:41:22 syslog: PPP LCP UP.
+Apr 13 20:43:03 syslog: PPP server detected.
+Apr 13 20:43:52 syslog: PPP server detected.
+Apr 13 20:43:52 syslog: PPP session established.
+Apr 13 20:44:01 syslog: PPP LCP UP.
+Apr 13 20:44:16 syslog: WAN link UP.
+Apr 13 20:44:16 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 20:44:23 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 13 20:45:12 syslog: [280535.790000] Line 0: VDSL2 link down
+Apr 13 20:45:14 syslog: [280538.115000] Line 0: xDSL G.994 training
+Apr 13 20:45:28 syslog: [280552.120000] Line 0: VDSL G.993 started
+Apr 13 20:46:40 syslog: [280623.826000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54887
+Apr 13 20:46:40 syslog: [280623.831000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 13 20:46:53 syslog: PPP server detected.
+Apr 13 20:46:53 syslog: PPP session established.
+Apr 13 20:46:56 syslog: PPP LCP UP.
+Apr 13 20:46:56 syslog: WAN link UP.
+Apr 13 20:46:56 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 20:47:02 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 19:47:16 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:27:43 syslog: Send out NTP request to ntp0.esat.net 
+Apr 13 22:27:43 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 13 22:27:43 syslog: System time is up to date
+Apr 13 23:14:44 syslog: [289508.946000] Line 0: VDSL2 link down
+Apr 13 23:14:46 syslog: [289511.307000] Line 0: xDSL G.994 training
+Apr 13 23:15:00 syslog: [289525.316000] Line 0: VDSL G.993 started
+Apr 13 23:16:12 syslog: [289596.696000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54597
+Apr 13 23:16:12 syslog: [289596.702000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 13 23:16:25 syslog: PPP server detected.
+Apr 13 23:16:25 syslog: PPP session established.
+Apr 13 23:16:28 syslog: PPP LCP UP.
+Apr 13 23:16:28 syslog: WAN link UP.
+Apr 13 23:16:28 syslog: Received valid IP address from server.  Connection UP.
+Apr 13 23:16:34 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 13 22:16:48 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:16:48 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:16:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 13 22:16:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 14 00:54:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 00:54:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 00:54:14 syslog: System time is up to date
+Apr 14 02:59:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 02:59:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 02:59:19 syslog: System time is up to date
+Apr 14 05:06:24 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 05:06:24 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 05:06:24 syslog: System time is up to date
+Apr 14 07:21:29 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 07:21:29 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 07:21:29 syslog: System time is up to date
+Apr 14 09:36:34 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 09:36:34 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 09:36:34 syslog: System time is up to date
+Apr 14 11:56:40 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 11:56:40 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 11:56:40 syslog: System time is up to date
+Apr 14 14:26:45 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 14:26:45 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 14:26:45 syslog: System time is up to date
+Apr 14 16:50:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 16:50:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 16:50:50 syslog: System time is up to date
+Apr 14 19:00:55 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 19:00:55 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 19:00:55 syslog: System time is up to date
+Apr 14 21:03:00 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 21:03:00 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 21:03:00 syslog: System time is up to date
+Apr 14 23:17:06 syslog: Send out NTP request to ntp0.esat.net 
+Apr 14 23:17:06 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 14 23:17:06 syslog: System time is up to date
+Apr 15 01:43:11 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 01:43:11 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 01:43:11 syslog: System time is up to date
+Apr 15 04:05:16 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 04:05:16 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 04:05:16 syslog: System time is up to date
+Apr 15 06:20:21 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 06:20:21 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 06:20:21 syslog: System time is up to date
+Apr 15 08:39:26 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 08:39:26 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 08:39:26 syslog: System time is up to date
+Apr 15 10:57:31 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 10:57:31 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 10:57:31 syslog: System time is up to date
+Apr 15 13:15:36 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 13:15:36 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 13:15:36 syslog: System time is up to date
+Apr 15 15:17:41 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 15:17:41 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 15:17:41 syslog: System time is up to date
+Apr 15 17:23:46 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 17:23:46 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 17:23:46 syslog: System time is up to date
+Apr 15 19:26:52 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 19:26:52 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 19:26:52 syslog: System time is up to date
+Apr 15 21:41:57 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 21:41:57 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 21:41:57 syslog: System time is up to date
+Apr 15 23:59:02 syslog: Send out NTP request to ntp0.esat.net 
+Apr 15 23:59:02 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 15 23:59:02 syslog: System time is up to date
+Apr 16 00:38:29 syslog: [467358.708000] Line 0: VDSL2 link down
+Apr 16 00:38:31 syslog: [467360.746000] Line 0: xDSL G.994 training
+Apr 16 00:38:46 syslog: [467375.757000] Line 0: VDSL G.993 started
+Apr 16 00:39:56 syslog: [467446.249000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=55561
+Apr 16 00:39:56 syslog: [467446.254000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 16 00:40:09 syslog: PPP server detected.
+Apr 16 00:40:09 syslog: PPP session established.
+Apr 16 00:40:12 syslog: PPP LCP UP.
+Apr 16 00:40:12 syslog: WAN link UP.
+Apr 16 00:40:12 syslog: Received valid IP address from server.  Connection UP.
+Apr 16 00:40:18 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 15 23:40:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 02:13:01 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 02:13:01 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 02:13:01 syslog: System time is up to date
+Apr 16 04:42:07 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 04:42:07 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 04:42:07 syslog: System time is up to date
+Apr 16 07:09:12 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 07:09:12 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 07:09:12 syslog: System time is up to date
+Apr 16 07:39:35 syslog: [492628.150000] Line 0: VDSL2 link down
+Apr 16 07:39:37 syslog: [492630.372000] Line 0: xDSL G.994 training
+Apr 16 07:39:51 syslog: [492644.375000] Line 0: VDSL G.993 started
+Apr 16 07:41:01 syslog: [492714.350000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=59449
+Apr 16 07:41:01 syslog: [492714.355000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 16 07:41:14 syslog: PPP server detected.
+Apr 16 07:41:14 syslog: PPP session established.
+Apr 16 07:41:17 syslog: PPP LCP UP.
+Apr 16 07:41:17 syslog: WAN link UP.
+Apr 16 07:41:17 syslog: Received valid IP address from server.  Connection UP.
+Apr 16 07:41:23 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 16 06:41:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 06:41:38 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 06:41:39 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 06:41:39 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 09:17:12 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 09:17:12 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 09:17:12 syslog: System time is up to date
+Apr 16 11:45:17 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 11:45:17 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 11:45:17 syslog: System time is up to date
+Apr 16 13:50:22 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 13:50:22 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 13:50:22 syslog: System time is up to date
+Apr 16 15:54:27 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 15:54:27 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 15:54:27 syslog: System time is up to date
+Apr 16 18:12:33 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 18:12:33 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 18:12:33 syslog: System time is up to date
+Apr 16 19:48:40 syslog: [536378.845000] Line 0: VDSL2 link down
+Apr 16 19:48:42 syslog: [536381.007000] Line 0: xDSL G.994 training
+Apr 16 19:48:56 syslog: [536395.010000] Line 0: VDSL G.993 started
+Apr 16 19:50:07 syslog: [536465.494000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=53931
+Apr 16 19:50:07 syslog: [536465.500000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 16 19:50:22 syslog: PPP server detected.
+Apr 16 19:50:22 syslog: PPP session established.
+Apr 16 19:50:25 syslog: PPP LCP UP.
+Apr 16 19:50:25 syslog: WAN link UP.
+Apr 16 19:50:25 syslog: Received valid IP address from server.  Connection UP.
+Apr 16 19:50:31 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 18:50:49 syslog: bind 0.0.0.0 - Address already in use
+Apr 16 20:24:44 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 20:24:44 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 20:24:44 syslog: System time is up to date
+Apr 16 22:26:49 syslog: Send out NTP request to ntp0.esat.net 
+Apr 16 22:26:49 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 16 22:26:49 syslog: System time is up to date
+Apr 17 00:33:55 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 00:33:55 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 00:33:55 syslog: System time is up to date
+Apr 17 02:59:00 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 02:59:00 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 02:59:00 syslog: System time is up to date
+Apr 17 05:21:05 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 05:21:05 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 05:21:05 syslog: System time is up to date
+Apr 17 07:41:09 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 07:41:09 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 07:41:09 syslog: System time is up to date
+Apr 17 09:50:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 09:50:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 09:50:14 syslog: System time is up to date
+Apr 17 12:05:20 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 12:05:20 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 12:05:20 syslog: System time is up to date
+Apr 17 14:28:25 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 14:28:25 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 14:28:25 syslog: System time is up to date
+Apr 17 16:49:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 16:49:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 16:49:30 syslog: System time is up to date
+Apr 17 19:05:36 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 19:05:36 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 19:05:36 syslog: System time is up to date
+Apr 17 21:12:41 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 21:12:41 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 21:12:41 syslog: System time is up to date
+Apr 17 23:17:46 syslog: Send out NTP request to ntp0.esat.net 
+Apr 17 23:17:46 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 17 23:17:46 syslog: System time is up to date
+Apr 18 01:42:52 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 01:42:52 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 01:42:52 syslog: System time is up to date
+Apr 18 03:59:57 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 03:59:57 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 03:59:57 syslog: System time is up to date
+Apr 18 06:29:02 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 06:29:02 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 06:29:02 syslog: System time is up to date
+Apr 18 08:15:25 syslog: [667601.049000] Line 0: VDSL2 link down
+Apr 18 08:15:27 syslog: [667603.376000] Line 0: xDSL G.994 training
+Apr 18 08:15:41 syslog: [667617.380000] Line 0: VDSL G.993 started
+Apr 18 08:16:53 syslog: [667689.331000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=57499
+Apr 18 08:16:53 syslog: [667689.336000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 18 08:17:07 syslog: PPP server detected.
+Apr 18 08:17:07 syslog: PPP session established.
+Apr 18 08:17:10 syslog: PPP LCP UP.
+Apr 18 08:17:10 syslog: WAN link UP.
+Apr 18 08:17:10 syslog: Received valid IP address from server.  Connection UP.
+Apr 18 08:17:17 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 18 07:17:31 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 07:17:31 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 07:17:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 07:17:32 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 08:53:24 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 08:53:24 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 08:53:24 syslog: System time is up to date
+Apr 18 11:20:29 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 11:20:29 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 11:20:29 syslog: System time is up to date
+Apr 18 13:36:34 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 13:36:34 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 13:36:34 syslog: System time is up to date
+Apr 18 16:03:39 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 16:03:39 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 16:03:39 syslog: System time is up to date
+Apr 18 18:22:44 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 18:22:44 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 18:22:44 syslog: System time is up to date
+Apr 18 20:36:50 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 20:36:50 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 20:36:50 syslog: System time is up to date
+Apr 18 21:23:57 syslog: [714919.856000] Line 0: VDSL2 link down
+Apr 18 21:24:00 syslog: [714922.288000] Line 0: xDSL G.994 training
+Apr 18 21:24:14 syslog: [714936.335000] Line 0: VDSL G.993 started
+Apr 18 21:25:25 syslog: [715007.728000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=54629
+Apr 18 21:25:25 syslog: [715007.734000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 18 21:25:41 syslog: PPP server detected.
+Apr 18 21:25:41 syslog: PPP session established.
+Apr 18 21:25:44 syslog: PPP LCP UP.
+Apr 18 21:25:44 syslog: WAN link UP.
+Apr 18 21:25:44 syslog: Received valid IP address from server.  Connection UP.
+Apr 18 21:25:50 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.16.223.151/2.22.2883.R/::1]
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 20:26:05 syslog: bind 0.0.0.0 - Address already in use
+Apr 18 22:57:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr 18 22:57:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 18 22:57:30 syslog: System time is up to date
+Apr 19 01:14:36 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 01:14:36 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 01:14:36 syslog: System time is up to date
+Apr 19 03:40:41 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 03:40:41 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 03:40:41 syslog: System time is up to date
+Apr 19 05:42:46 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 05:42:46 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 05:42:46 syslog: System time is up to date
+Apr 19 07:46:51 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 07:46:51 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 07:46:51 syslog: System time is up to date
+Apr 19 09:50:56 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 09:50:56 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 09:50:56 syslog: System time is up to date
+Apr 19 12:05:01 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 12:05:01 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 12:05:01 syslog: System time is up to date
+Apr 19 14:08:07 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 14:08:07 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 14:08:07 syslog: System time is up to date
+Apr 19 16:14:12 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 16:14:12 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 16:14:12 syslog: System time is up to date
+Apr 19 18:40:17 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 18:40:17 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 18:40:17 syslog: System time is up to date
+Apr 19 21:09:22 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 21:09:22 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 21:09:22 syslog: System time is up to date
+Apr 19 23:40:28 syslog: Send out NTP request to ntp0.esat.net 
+Apr 19 23:40:28 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 19 23:40:28 syslog: System time is up to date
+Apr 20 01:49:33 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 01:49:33 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 01:49:33 syslog: System time is up to date
+Apr 20 03:58:38 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 03:58:38 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 03:58:38 syslog: System time is up to date
+Apr 20 06:23:43 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 06:23:43 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 06:23:43 syslog: System time is up to date
+Apr 20 08:38:48 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 08:38:48 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 08:38:48 syslog: System time is up to date
+Apr 20 11:03:53 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 11:03:53 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 11:03:53 syslog: System time is up to date
+Apr 20 13:19:58 syslog: Send out NTP request to ntp0.esat.net 
+Apr 20 13:19:58 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 20 13:19:58 syslog: System time is up to date
+Jan  1 00:00:09 syslog: BusyBox v1.17.2
+Jan  1 00:00:09 syslog: plc0 (Int switch port: 4) (Logical Port: 4) Link UP 100 mbps full duplex
+Jan  1 00:00:32 syslog: [   32.012000] Line 0: xDSL G.994 training
+Jan  1 00:00:32 syslog: sky dhcpc client (v0.0.1) started
+Jan  1 00:00:47 syslog: [   47.019000] Line 0: VDSL G.993 started
+Jan  1 00:01:30 syslog: sky dhcpc client (v0.0.1) started
+Jan  1 00:01:56 syslog: [  116.882000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=58608
+Jan  1 00:01:56 syslog: [  116.887000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Jan  1 00:02:07 syslog: PPP server detected.
+Jan  1 00:02:07 syslog: PPP session established.
+Jan  1 00:02:10 syslog: PPP LCP UP.
+Jan  1 00:02:10 syslog: WAN link UP.
+Jan  1 00:02:10 syslog: Received valid IP address from server.  Connection UP.
+Jan  1 00:02:16 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.156.113/2.22.2883.R/::1]
+Jan  1 00:02:16 syslog: Send out NTP request to ntp0.esat.net 
+Jan  1 00:02:16 syslog: Time has been set from ntp0.esat.net
+Apr 21 08:48:02 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 21 07:48:21 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 07:48:21 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 07:48:21 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 07:48:21 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 10:50:08 syslog: Send out NTP request to ntp0.esat.net 
+Apr 21 10:50:08 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 21 10:50:08 syslog: System time is up to date
+Apr 21 13:03:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr 21 13:03:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 21 13:03:14 syslog: System time is up to date
+Apr 21 15:07:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr 21 15:07:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 21 15:07:19 syslog: System time is up to date
+Apr 21 17:37:24 syslog: Send out NTP request to ntp0.esat.net 
+Apr 21 17:37:24 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 21 17:37:24 syslog: System time is up to date
+Apr 21 19:50:30 syslog: Send out NTP request to ntp0.esat.net 
+Apr 21 19:50:30 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 21 19:50:30 syslog: System time is up to date
+Apr 21 20:41:29 syslog: Clear IP addresses.  PPP connection DOWN.
+Apr 21 20:41:32 syslog: [42951.698000] Line 0: VDSL2 link down
+Apr 21 20:41:34 syslog: [42953.768000] Line 0: xDSL G.994 training
+Apr 21 20:41:48 syslog: [42967.777000] Line 0: VDSL G.993 started
+Apr 21 20:43:01 syslog: [43040.642000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=55496
+Apr 21 20:43:01 syslog: [43040.648000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 21 20:43:15 syslog: PPP server detected.
+Apr 21 20:43:15 syslog: PPP session established.
+Apr 21 20:43:18 syslog: PPP LCP UP.
+Apr 21 20:43:18 syslog: WAN link UP.
+Apr 21 20:43:18 syslog: Received valid IP address from server.  Connection UP.
+Apr 21 20:43:24 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.156.126/2.22.2883.R/::1]
+Apr 21 19:43:40 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 19:43:40 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 19:43:41 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 19:43:41 syslog: bind 0.0.0.0 - Address already in use
+Apr 21 21:56:02 syslog: Send out NTP request to ntp0.esat.net 
+Apr 21 21:56:02 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 21 21:56:02 syslog: System time is up to date
+Apr 22 00:26:08 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 00:26:08 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 00:26:08 syslog: System time is up to date
+Apr 22 02:56:13 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 02:56:13 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 02:56:13 syslog: System time is up to date
+Apr 22 05:06:18 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 05:06:18 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 05:06:18 syslog: System time is up to date
+Apr 22 07:13:23 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 07:13:23 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 07:13:23 syslog: System time is up to date
+Apr 22 09:18:28 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 09:18:28 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 09:18:28 syslog: System time is up to date
+Apr 22 11:48:33 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 11:48:33 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 11:48:33 syslog: System time is up to date
+Apr 22 14:10:38 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 14:10:38 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 14:10:38 syslog: System time is up to date
+Apr 22 16:33:44 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 16:33:44 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 16:33:44 syslog: System time is up to date
+Apr 22 19:02:49 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 19:02:49 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 19:02:49 syslog: System time is up to date
+Apr 22 21:06:54 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 21:06:54 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 21:06:54 syslog: System time is up to date
+Apr 22 23:35:59 syslog: Send out NTP request to ntp0.esat.net 
+Apr 22 23:35:59 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 22 23:35:59 syslog: System time is up to date
+Apr 23 01:34:20 syslog: [146931.204000] Line 0: VDSL2 link down
+Apr 23 01:34:22 syslog: [146933.244000] Line 0: xDSL G.994 training
+Apr 23 01:34:36 syslog: [146947.256000] Line 0: VDSL G.993 started
+Apr 23 01:35:47 syslog: [147018.487000] Line 0: VDSL2 link up, Bearer 0, us=20480, ds=57457
+Apr 23 01:35:47 syslog: [147018.493000] Line 0: VDSL2 link up, Bearer 1, us=0, ds=0
+Apr 23 01:36:00 syslog: PPP server detected.
+Apr 23 01:36:00 syslog: PPP session established.
+Apr 23 01:36:03 syslog: PPP LCP UP.
+Apr 23 01:36:03 syslog: WAN link UP.
+Apr 23 01:36:03 syslog: Received valid IP address from server.  Connection UP.
+Apr 23 01:36:09 syslog: Connection Up. SNO/MAC/IP/SWVER/IPv6: [AD40177B005748/902106BF0B90/78.19.156.51/2.22.2883.R/::1]
+Apr 23 00:36:22 syslog: bind 0.0.0.0 - Address already in use
+Apr 23 00:36:22 syslog: bind 0.0.0.0 - Address already in use
+Apr 23 00:36:23 syslog: bind 0.0.0.0 - Address already in use
+Apr 23 00:36:23 syslog: bind 0.0.0.0 - Address already in use
+Apr 23 01:58:09 syslog: Send out NTP request to ntp0.esat.net 
+Apr 23 01:58:09 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 23 01:58:09 syslog: System time is up to date
+Apr 23 04:18:14 syslog: Send out NTP request to ntp0.esat.net 
+Apr 23 04:18:14 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 23 04:18:14 syslog: System time is up to date
+Apr 23 06:20:19 syslog: Send out NTP request to ntp0.esat.net 
+Apr 23 06:20:19 syslog: Received NTP Sync Reply from ntp0.esat.net 
+Apr 23 06:20:19 syslog: System time is up to date
+
